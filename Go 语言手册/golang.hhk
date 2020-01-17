@@ -1,0 +1,1159 @@
+<HTML><HEAD>
+</HEAD><BODY><UL>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="00 index">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\00 index.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01 第1章 Go语言简介">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01 第1章 Go语言简介.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-01 Go语言简介">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-01 Go语言简介.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-02 Go语言的特性">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-02 Go语言的特性.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-03 Go语言为并发而生">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-03 Go语言为并发而生.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-04 哪些项目使用Go语言开发？">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-04 哪些项目使用Go语言开发？.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-05 哪些大公司正在使用Go语言">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-05 哪些大公司正在使用Go语言.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-06 Go语言适合做什么">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-06 Go语言适合做什么.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-07 Go语言和其它编程语言的对比">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-07 Go语言和其它编程语言的对比.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-08 Go语言的性能如何？">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-08 Go语言的性能如何？.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-09 Go语言标准库强大">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-09 Go语言标准库强大.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-10 Go语言上手简单">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-10 Go语言上手简单.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-11 Go语言代码风格清晰、简单">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-11 Go语言代码风格清晰、简单.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-12 Go语言是怎么完成编译的">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-12 Go语言是怎么完成编译的.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-13 在Windows上安装Go语言开发包">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-13 在Windows上安装Go语言开发包.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-14 在Linux上安装Go语言开发包">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-14 在Linux上安装Go语言开发包.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-15 在Mac OS上安装Go语言开发包">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-15 在Mac OS上安装Go语言开发包.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-16 Go语言集成开发环境">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-16 Go语言集成开发环境.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-17 Go语言工程结构详述">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-17 Go语言工程结构详述.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="01-18 Go语言依赖管理">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\01-18 Go语言依赖管理.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02 第2章 Go语言基本语法">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02 第2章 Go语言基本语法.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-01 Go语言变量的声明">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-01 Go语言变量的声明.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-02 Go语言变量的初始化">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-02 Go语言变量的初始化.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-03 Go语言多个变量同时赋值">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-03 Go语言多个变量同时赋值.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-04 Go语言匿名变量">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-04 Go语言匿名变量.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-05 Go语言变量的作用域">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-05 Go语言变量的作用域.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-06 Go语言整型（整数类型）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-06 Go语言整型（整数类型）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-07 Go语言浮点类型（小数类型）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-07 Go语言浮点类型（小数类型）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-08 Go语言复数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-08 Go语言复数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-09 实例：输出正弦函数（Sin）图像">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-09 实例：输出正弦函数（Sin）图像.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-10 Go语言bool类型（布尔类型）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-10 Go语言bool类型（布尔类型）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-11 Go语言字符串">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-11 Go语言字符串.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-12 Go语言字符类型（byte和rune）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-12 Go语言字符类型（byte和rune）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-13 Go语言数据类型转换">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-13 Go语言数据类型转换.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-14 Go语言指针">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-14 Go语言指针.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-15 Go语言变量逃逸分析">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-15 Go语言变量逃逸分析.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-16 Go语言变量的生命周期">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-16 Go语言变量的生命周期.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-17 Go语言常量">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-17 Go语言常量.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-18 Go语言模拟枚举">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-18 Go语言模拟枚举.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-19 Go语言类型别名">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-19 Go语言类型别名.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-20 Go语言注释的定义及使用">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-20 Go语言注释的定义及使用.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-21 Go语言关键字与标识符">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-21 Go语言关键字与标识符.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-22 Go语言运算符及优先级">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-22 Go语言运算符及优先级.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="02-23 Go语言字符串和数值类型的相互转换">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\02-23 Go语言字符串和数值类型的相互转换.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03 第3章 Go语言容器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03 第3章 Go语言容器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-01 Go语言数组">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-01 Go语言数组.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-02 Go语言多维数组">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-02 Go语言多维数组.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-03 Go语言切片">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-03 Go语言切片.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-04 使用append()为切片添加元素">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-04 使用append()为切片添加元素.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-05 Go语言切片复制">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-05 Go语言切片复制.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-06 Go语言从切片中删除元素">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-06 Go语言从切片中删除元素.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-07 Go语言range关键字">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-07 Go语言range关键字.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-08 Go语言多维切片">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-08 Go语言多维切片.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-09 Go语言map（映射）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-09 Go语言map（映射）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-10 Go语言遍历map">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-10 Go语言遍历map.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-11 map元素的删除和清空">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-11 map元素的删除和清空.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-12 Go语言sync">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-12 Go语言sync.Map.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-13 Go语言list（列表）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-13 Go语言list（列表）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-14 Go语言nil：空值 零值">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-14 Go语言nil：空值 零值.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="03-15 Go语言make和new关键字的区别及实现原理">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\03-15 Go语言make和new关键字的区别及实现原理.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04 第4章 流程控制">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04 第4章 流程控制.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-01 Go语言分支结构">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-01 Go语言分支结构.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-02 Go语言循环结构">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-02 Go语言循环结构.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-03 输出九九乘法表">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-03 输出九九乘法表.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-04 Go语言键值循环">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-04 Go语言键值循环.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-05 Go语言switch语句">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-05 Go语言switch语句.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-06 Go语言goto语句">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-06 Go语言goto语句.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-07 Go语言break（跳出循环）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-07 Go语言break（跳出循环）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-08 Go语言continue">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-08 Go语言continue.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-09 示例：聊天机器人">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-09 示例：聊天机器人.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-10 示例：词频统计">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-10 示例：词频统计.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-11 示例：缩进排序">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-11 示例：缩进排序.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-12 示例：二分查找算法">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-12 示例：二分查找算法.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="04-13 示例：冒泡排序">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\04-13 示例：冒泡排序.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05 第5章 Go语言函数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05 第5章 Go语言函数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-01 Go语言函数声明">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-01 Go语言函数声明.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-02 示例：将秒转换为具体的时间">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-02 示例：将秒转换为具体的时间.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-03 示例：函数中的参数传递效果测试">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-03 示例：函数中的参数传递效果测试.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-04 Go语言函数变量">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-04 Go语言函数变量.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-05 Go语言字符串的链式处理">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-05 Go语言字符串的链式处理.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-06 Go语言匿名函数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-06 Go语言匿名函数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-07 Go语言函数类型实现接口">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-07 Go语言函数类型实现接口.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-08 Go语言闭包（Closure）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-08 Go语言闭包（Closure）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-09 Go语言可变参数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-09 Go语言可变参数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-10 Go语言defer（延迟执行语句）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-10 Go语言defer（延迟执行语句）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-11 Go语言递归函数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-11 Go语言递归函数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-12 Go语言处理运行时错误">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-12 Go语言处理运行时错误.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-13 Go语言宕机（panic）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-13 Go语言宕机（panic）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-14 Go语言宕机恢复（recover）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-14 Go语言宕机恢复（recover）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-15 Go语言计算函数执行时间">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-15 Go语言计算函数执行时间.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-16 示例：通过内存缓存来提升性能">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-16 示例：通过内存缓存来提升性能.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-17 Go语言函数类型">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-17 Go语言函数类型.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-18 Go语言函数的底层实现">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-18 Go语言函数的底层实现.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-19 Go语言错误处理策略">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-19 Go语言错误处理策略.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="05-20 Go语言Test功能测试函数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\05-20 Go语言Test功能测试函数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06 第6章 Go语言结构体">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06 第6章 Go语言结构体.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-01 Go语言结构体定义">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-01 Go语言结构体定义.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-02 Go语言实例化结构体">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-02 Go语言实例化结构体.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-03 初始化结构体的成员变量">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-03 初始化结构体的成员变量.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-04 Go语言结构体字面量">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-04 Go语言结构体字面量.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-05 Go语言构造函数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-05 Go语言构造函数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-06 Go语言方法和接收器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-06 Go语言方法和接收器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-07 为任意类型添加方法">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-07 为任意类型添加方法.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-08 示例：使用事件系统实现事件的响应和处理">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-08 示例：使用事件系统实现事件的响应和处理.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-09 类型内嵌和结构体内嵌">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-09 类型内嵌和结构体内嵌.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-10 结构体内嵌模拟类的继承">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-10 结构体内嵌模拟类的继承.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-11 初始化内嵌结构体">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-11 初始化内嵌结构体.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-12 内嵌结构体成员名字冲突">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-12 内嵌结构体成员名字冲突.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-13 示例：使用匿名结构体解析JSON数据">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-13 示例：使用匿名结构体解析JSON数据.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-14 Go语言垃圾回收和SetFinalizer">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-14 Go语言垃圾回收和SetFinalizer.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-15 示例：使用事件系统实现事件的晌应和处理">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-15 示例：使用事件系统实现事件的晌应和处理.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-16 示例：将结构体数据保存为JSON格式数据">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-16 示例：将结构体数据保存为JSON格式数据.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-17 Go语言链表操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-17 Go语言链表操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="06-18 Go语言数据IO对象及操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\06-18 Go语言数据IO对象及操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07 第7章 Go语言接口">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07 第7章 Go语言接口.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-01 Go语言接口声明（定义）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-01 Go语言接口声明（定义）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-02 Go语言实现接口的条件">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-02 Go语言实现接口的条件.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-03 Go语言类型与接口的关系">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-03 Go语言类型与接口的关系.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-04 Go语言类型断言">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-04 Go语言类型断言.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-05 示例：Go语言实现日志系统">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-05 示例：Go语言实现日志系统.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-06 Go语言排序">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-06 Go语言排序.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-07 Go语言接口的嵌套组合">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-07 Go语言接口的嵌套组合.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-08 Go语言接口和类型之间的转换">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-08 Go语言接口和类型之间的转换.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-09 Go语言空接口类型">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-09 Go语言空接口类型.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-10 示例：使用空接口实现可以保存任意值的字典">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-10 示例：使用空接口实现可以保存任意值的字典.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-11 Go语言类型分支">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-11 Go语言类型分支.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-12 Go语言error接口">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-12 Go语言error接口.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-13 Go语言Writer和Reader接口">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-13 Go语言Writer和Reader接口.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-14 Go语言接口内部实现">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-14 Go语言接口内部实现.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-15 示例：表达式求值器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-15 示例：表达式求值器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-16 使用类型断言来识别错误">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-16 使用类型断言来识别错误.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-17 接口与动态类型">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-17 接口与动态类型.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-18 示例：简单的Web服务器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-18 示例：简单的Web服务器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-19 示例：音乐播放器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-19 示例：音乐播放器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-20 示例：使用空接口实现可以保存任意值的字典">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-20 示例：使用空接口实现可以保存任意值的字典.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-21 示例：实现有限状态机（FSM）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-21 示例：实现有限状态机（FSM）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="07-22 示例：二叉树数据结构的应用">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\07-22 示例：二叉树数据结构的应用.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08 第8章 Go语言包（package）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08 第8章 Go语言包（package）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-01 包的基本概念">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-01 包的基本概念.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-02 Go语言封装简介及实现细节">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-02 Go语言封装简介及实现细节.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-03 Go语言GOPATH">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-03 Go语言GOPATH.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-04 Go语言常用内置包">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-04 Go语言常用内置包.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-05 Go语言自定义包">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-05 Go语言自定义包.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-06 Go语言package">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-06 Go语言package.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-07 Go语言导出包中的标识符">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-07 Go语言导出包中的标识符.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-08 Go语言import导入包">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-08 Go语言import导入包.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-09 Go语言工厂模式自动注册">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-09 Go语言工厂模式自动注册.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-10 Go语言单例模式">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-10 Go语言单例模式.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-11 Go语言sync包与锁">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-11 Go语言sync包与锁.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-12 Go语言big包">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-12 Go语言big包.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-13 示例：使用图像包制作GIF动画">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-13 示例：使用图像包制作GIF动画.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-14 Go语言正则表达式：regexp包">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-14 Go语言正则表达式：regexp包.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-15 Go语言time包：时间和日期">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-15 Go语言time包：时间和日期.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-16 Go语言os包用法简述">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-16 Go语言os包用法简述.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-17 Go语言flag包：命令行参数解析">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-17 Go语言flag包：命令行参数解析.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-18 Go语言go mod包依赖管理工具">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-18 Go语言go mod包依赖管理工具.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-19 示例：使用Go语言生成二维码">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-19 示例：使用Go语言生成二维码.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-20 Go语言Context（上下文）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-20 Go语言Context（上下文）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-21 示例：客户信息管理系统">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-21 示例：客户信息管理系统.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-22 示例：使用Go语言发送电子邮件">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-22 示例：使用Go语言发送电子邮件.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-23 Go语言（Pingo）插件化开发">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-23 Go语言（Pingo）插件化开发.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-24 Go语言定时器实现原理及作用">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-24 Go语言定时器实现原理及作用.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="08-25 Go语言使用定时器实现任务队列">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\08-25 Go语言使用定时器实现任务队列.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09 第9章 Go语言并发">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09 第9章 Go语言并发.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-01 Go语言并发简述">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-01 Go语言并发简述.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-02 Go语言轻量级线程">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-02 Go语言轻量级线程.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-03 Go语言并发通信">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-03 Go语言并发通信.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-04 Go语言竞争状态">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-04 Go语言竞争状态.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-05 Go语言调整并发的运行性能">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-05 Go语言调整并发的运行性能.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-06 并发和并行的区别">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-06 并发和并行的区别.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-07 goroutine和coroutine的区别">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-07 goroutine和coroutine的区别.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-08 Go语言通道（chan）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-08 Go语言通道（chan）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-09 示例：并发打印">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-09 示例：并发打印.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-10 Go语言单向通道">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-10 Go语言单向通道.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-11 Go语言无缓冲的通道">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-11 Go语言无缓冲的通道.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-12 Go语言带缓冲的通道">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-12 Go语言带缓冲的通道.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-13 Go语言channel超时机制">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-13 Go语言channel超时机制.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-14 Go语言通道的多路复用">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-14 Go语言通道的多路复用.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-15 Go语言模拟远程过程调用">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-15 Go语言模拟远程过程调用.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-16 示例：使用通道响应计时器的事件">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-16 示例：使用通道响应计时器的事件.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-17 Go语言关闭通道后继续使用通道">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-17 Go语言关闭通道后继续使用通道.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-18 Go语言多核并行化">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-18 Go语言多核并行化.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-19 Go语言Telnet回音服务器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-19 Go语言Telnet回音服务器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-20 检测代码在并发环境下可能出现的问题">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-20 检测代码在并发环境下可能出现的问题.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-21 互斥锁和读写互斥锁">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-21 互斥锁和读写互斥锁.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-22 Go语言等待组">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-22 Go语言等待组.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-23 死锁、活锁和饥饿概述">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-23 死锁、活锁和饥饿概述.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-24 示例：封装qsort快速排序函数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-24 示例：封装qsort快速排序函数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-25 Go语言CSP：通信顺序进程简述">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-25 Go语言CSP：通信顺序进程简述.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="09-26 示例：聊天服务器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\09-26 示例：聊天服务器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10 第10章 Go语言反射">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10 第10章 Go语言反射.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-01 Go语言反射（reflection）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-01 Go语言反射（reflection）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-02 Go语言反射规则浅析">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-02 Go语言反射规则浅析.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-03 通过反射获取类型信息">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-03 通过反射获取类型信息.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-04 通过反射获取指针指向的元素类型">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-04 通过反射获取指针指向的元素类型.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-05 通过反射获取结构体的成员类型">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-05 通过反射获取结构体的成员类型.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-06 Go语言结构体标签">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-06 Go语言结构体标签.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-07 通过反射获取值信息">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-07 通过反射获取值信息.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-08 示例：使用reflect">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-08 示例：使用reflect.Type显示一个类型的方法集.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-09 通过反射访问结构体成员的值">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-09 通过反射访问结构体成员的值.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-10 判断反射值的空和有效性">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-10 判断反射值的空和有效性.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-11 通过反射修改变量的值">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-11 通过反射修改变量的值.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-12 示例：获取结构体字段标识">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-12 示例：获取结构体字段标识.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-13 通过类型信息创建实例">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-13 通过类型信息创建实例.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-14 通过反射调用函数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-14 通过反射调用函数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="10-15 Go语言inject库：依赖注入">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\10-15 Go语言inject库：依赖注入.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11 第11章 Go语言网络编程">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11 第11章 Go语言网络编程.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-01 Go语言Socket编程">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-01 Go语言Socket编程.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-02 Dial()函数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-02 Dial()函数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-03 示例：使用ICMP协议向主机发送消息">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-03 示例：使用ICMP协议向主机发送消息.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-04 示例：建立TCP链接">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-04 示例：建立TCP链接.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-05 Go语言DialTCP()">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-05 Go语言DialTCP().html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-06 HTTP客户端实现简述">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-06 HTTP客户端实现简述.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-07 服务端处理HTTP、HTTPS请求">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-07 服务端处理HTTP、HTTPS请求.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-08 RPC协议：远程过程调用">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-08 RPC协议：远程过程调用.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-09 如何设计优雅的RPC接口">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-09 如何设计优雅的RPC接口.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-10 解码未知结构的JSON数据">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-10 解码未知结构的JSON数据.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-11 Go语言如何搭建网站程序">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-11 Go语言如何搭建网站程序.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-12 示例：开发一个简单的相册网站">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-12 示例：开发一个简单的相册网站.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-13 数据库（Database）相关操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-13 数据库（Database）相关操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-14 示例：并发时钟服务器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-14 示例：并发时钟服务器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-15 Go语言router请求路由">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-15 Go语言router请求路由.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-16 Go语言middleware：Web中间件">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-16 Go语言middleware：Web中间件.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-17 Go语言常见大型Web项目分层（MVC架构）">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-17 Go语言常见大型Web项目分层（MVC架构）.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-18 Cookie的设置与读取">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-18 Cookie的设置与读取.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-19 示例：获取IP地址和域名解析">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-19 示例：获取IP地址和域名解析.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-20 Go语言TCP网络程序设计">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-20 Go语言TCP网络程序设计.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-21 Go语言UDP网络程序设计">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-21 Go语言UDP网络程序设计.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-22 Go语言IP网络程序设计">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-22 Go语言IP网络程序设计.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-23 Go语言是如何使得Web工作的">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-23 Go语言是如何使得Web工作的.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-24 Go语言session的创建和管理">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-24 Go语言session的创建和管理.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-25 Go语言Ratelimit服务流量限制">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-25 Go语言Ratelimit服务流量限制.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="11-26 Go语言WEB框架(Gin)详解">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\11-26 Go语言WEB框架(Gin)详解.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12 第12章 Go语言文件处理">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12 第12章 Go语言文件处理.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-01 Go语言自定义数据文件">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-01 Go语言自定义数据文件.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-02 Go语言JSON文件的读写操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-02 Go语言JSON文件的读写操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-03 Go语言XML文件的读写操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-03 Go语言XML文件的读写操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-04 Go语言使用Gob传输数据">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-04 Go语言使用Gob传输数据.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-05 Go语言纯文本文件的读写操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-05 Go语言纯文本文件的读写操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-06 Go语言二进制文件的读写操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-06 Go语言二进制文件的读写操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-07 Go语言自定义二进制文件的读写操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-07 Go语言自定义二进制文件的读写操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-08 Go语言zip归档文件的读写操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-08 Go语言zip归档文件的读写操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-09 Go语言tar归档文件的读写操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-09 Go语言tar归档文件的读写操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-10 Go语言使用buffer读取文件">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-10 Go语言使用buffer读取文件.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-11 Go语言使用切片读写文件">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-11 Go语言使用切片读写文件.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-12 示例：并发目录遍历">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-12 示例：并发目录遍历.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-13 示例：从INI配置文件中读取需要的值">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-13 示例：从INI配置文件中读取需要的值.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-14 Go语言文件的写入、追加、读取、复制操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-14 Go语言文件的写入、追加、读取、复制操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="12-15 Go语言文件锁操作">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\12-15 Go语言文件锁操作.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13 第13章 Go语言网络爬虫">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13 第13章 Go语言网络爬虫.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-01 Go语言网络爬虫概述">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-01 Go语言网络爬虫概述.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-02 Go语言网络爬虫中的基本数据结构">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-02 Go语言网络爬虫中的基本数据结构.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-03 Go语言网络爬虫的接口设计">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-03 Go语言网络爬虫的接口设计.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-04 Go语言网络爬虫缓冲器工具的实现">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-04 Go语言网络爬虫缓冲器工具的实现.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-05 Go语言网络爬虫缓冲池工具的实现">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-05 Go语言网络爬虫缓冲池工具的实现.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-06 Go语言网络爬虫多重读取器的实现">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-06 Go语言网络爬虫多重读取器的实现.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-07 Go语言网络爬虫内部基础接口">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-07 Go语言网络爬虫内部基础接口.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-08 Go语言网络爬虫组件注册器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-08 Go语言网络爬虫组件注册器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-09 Go语言网络爬虫下载器接口">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-09 Go语言网络爬虫下载器接口.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-10 Go语言网络爬虫分析器接口">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-10 Go语言网络爬虫分析器接口.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-11 Go语言网络爬虫条目处理管道">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-11 Go语言网络爬虫条目处理管道.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-12 Go语言网络爬虫调度器的实现">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-12 Go语言网络爬虫调度器的实现.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="13-13 示例：爬取图片小程序">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\13-13 示例：爬取图片小程序.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14 第14章 Go语言编译与工具">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14 第14章 Go语言编译与工具.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14-01 go build命令">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14-01 go build命令.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14-02 go clean命令">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14-02 go clean命令.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14-03 go run命令">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14-03 go run命令.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14-04 go fmt命令">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14-04 go fmt命令.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14-05 go install命令">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14-05 go install命令.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14-06 go get命令">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14-06 go get命令.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14-07 go generate命令">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14-07 go generate命令.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14-08 go test命令">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14-08 go test命令.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="14-09 go pprof命令">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\14-09 go pprof命令.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15 第15章 “避坑”与技巧">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15 第15章 “避坑”与技巧.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-01 高效地使用Go语言并发特性">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-01 高效地使用Go语言并发特性.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-02 反射——性能和灵活性的双刃剑">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-02 反射——性能和灵活性的双刃剑.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-03 接口的nil判断">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-03 接口的nil判断.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-04 Go语言map的多键索引">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-04 Go语言map的多键索引.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-05 与C或C++进行交互">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-05 与C或C++进行交互.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-06 Go语言文件读写">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-06 Go语言文件读写.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-07 Json数据编码和解码">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-07 Json数据编码和解码.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-08 使用select切换协程">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-08 使用select切换协程.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-09 Go语言加密通信">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-09 Go语言加密通信.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-10 Go语言内存管理">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-10 Go语言内存管理.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-11 Go语言垃圾回收">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-11 Go语言垃圾回收.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-12 Go语言哈希函数">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-12 Go语言哈希函数.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-13 Go语言分布式id生成器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-13 Go语言分布式id生成器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-14 部署Go语言程序到Linux服务器">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-14 部署Go语言程序到Linux服务器.html">
+</OBJECT>
+<LI><OBJECT TYPE="text/sitemap">
+<PARAM NAME="Name" VALUE="15-15 Go语言实现RSA和AES加解密">
+<PARAM NAME="Local" VALUE="D:\Win7Desktop\geturl\git\golang\00\html\15-15 Go语言实现RSA和AES加解密.html">
+</OBJECT>
+</UL></BODY></HTML>
